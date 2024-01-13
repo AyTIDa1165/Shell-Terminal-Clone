@@ -31,5 +31,7 @@ you can use the following commands:
 (D) exit: to exit from our terminal
 
 Contributors:
+
 Aditya Aggarwal
+
 Aaradhya Verma
