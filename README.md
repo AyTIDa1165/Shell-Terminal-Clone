@@ -3,7 +3,7 @@ A C program that emulates a shell terminal focused on file manipulation, directo
 
 dependencies: makefile date.c dir.c Q2.c
 
-use **make* to run the makefile, it compiles all the dependencies and runs the *main* executable file
+use *make* to run the makefile, it compiles all the dependencies and runs the *main* executable file
 after every input, the current working directory is printed, providing a terminal emulator look to it.
 
 you can use the following commands:
