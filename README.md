@@ -32,5 +32,4 @@ you can use the following commands:
 
 Contributors:
 Aditya Aggarwal
-
 Aaradhya Verma
