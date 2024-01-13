@@ -29,9 +29,3 @@ you can use the following commands:
 					alongwith the necessary print statements
 
 (D) exit: to exit from our terminal
-
-Contributors:
-
-Aditya Aggarwal
-
-Aaradhya Verma
