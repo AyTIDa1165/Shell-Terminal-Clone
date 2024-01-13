@@ -30,6 +30,6 @@ you can use the following commands:
 
 (D) exit: to exit from our terminal
 
-Contributors
+Contributors:
 Aditya Aggarwal
 Aaradhya Verma
